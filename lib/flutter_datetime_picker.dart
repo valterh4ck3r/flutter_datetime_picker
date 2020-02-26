@@ -25,7 +25,7 @@ class DatePicker {
     DateTime maxTime,
     DateChangedCallback onChanged,
     DateChangedCallback onConfirm,
-    locale: LocaleType.en,
+    locale: LocaleType.pt,
     DateTime currentTime,
     DatePickerTheme theme,
   }) async {
@@ -55,7 +55,7 @@ class DatePicker {
     bool showSecondsColumn: true,
     DateChangedCallback onChanged,
     DateChangedCallback onConfirm,
-    locale: LocaleType.en,
+    locale: LocaleType.pt,
     DateTime currentTime,
     DatePickerTheme theme,
   }) async {
@@ -85,7 +85,7 @@ class DatePicker {
     DateTime maxTime,
     DateChangedCallback onChanged,
     DateChangedCallback onConfirm,
-    locale: LocaleType.en,
+    locale: LocaleType.pt,
     DateTime currentTime,
     DatePickerTheme theme,
   }) async {
@@ -114,7 +114,7 @@ class DatePicker {
     bool showTitleActions: true,
     DateChangedCallback onChanged,
     DateChangedCallback onConfirm,
-    locale: LocaleType.en,
+    locale: LocaleType.pt,
     BasePickerModel pickerModel,
     DatePickerTheme theme,
   }) async {
